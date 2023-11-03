@@ -8,4 +8,6 @@ Main tasks:
 
 
 Project was developed on Google Colab, installing gpytorch was required. Other packages already included<br />
-!pip install gpytorch
+!pip install gpytorch<br />
+![image](https://github.com/Sabelz/Project18/assets/61190192/4c70f221-9d34-4d50-a173-e08a1b02b30a)
+

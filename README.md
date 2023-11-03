@@ -7,5 +7,5 @@ Main tasks:
 * Measure the difference of speed with and without inducing points
 
 
-Project was developed on Google Colab, installing gpytorch was required. Other packages already included\n
+Project was developed on Google Colab, installing gpytorch was required. Other packages already included<br />
 !pip install gpytorch

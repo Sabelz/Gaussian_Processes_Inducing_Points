@@ -8,7 +8,7 @@
 [Requirements](#introduction)  
 
 # Introduction <a name="introduction"/>
-Gaussian Process Project for the course: Project in Data Science 1DL505. 
+Gaussian Process Project for the course: Project in Data Science 1DL505., Uppsala University
   
 Main tasks:   
 :purple_circle: Learn about making GPs using https://gpytorch.ai/  

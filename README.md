@@ -23,7 +23,7 @@ Main tasks:
 :purple_circle: [datasets](./datasets) - All different datasets
 
 # Requirements <a name="requirements"/>
-Project was developed on Google Colab, installing gpytorch was required. Other packages already included<br />
+Project was developed in Google Colab, installing gpytorch was required. Other packages already included<br />
 !pip install gpytorch  
 
 

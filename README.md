@@ -7,7 +7,7 @@ Alexander Sabelström - @[Sabelz](https://github.com/Sabelz)
 2. Requirements
 
 ## Introduction
-Project 18 for the course: Project in Data Science 1DL505. 
+Gaussian Process Project for the course: Project in Data Science 1DL505. 
   
 Main tasks:   
 :purple_circle: Learn about making GPs using https://gpytorch.ai/  

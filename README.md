@@ -17,6 +17,8 @@ Main tasks:
 :purple_circle: Measure the difference of speed with and without inducing points  
 
 ![image](https://github.com/Sabelz/Project18/assets/61190192/87953f94-f1a8-4876-80af-f0056dad98a3) ![image](https://github.com/Sabelz/Project18/assets/61190192/debfd5a6-a72f-417c-a8aa-691c809719e6)
+![image](https://github.com/Sabelz/Project18/assets/61190192/d4269e04-756c-4a6d-836b-ae9f549ade1c)
+
 
 
 # Folders in Repository  <a name="folders"/> 

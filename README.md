@@ -1,4 +1,4 @@
- #:purple_circle: Project - Gaussian Processes :purple_circle:
+# 🟣 Project - Gaussian Processes 🟣
 
 ### Alexander Sabelström - @[Sabelz](https://github.com/Sabelz)
 

@@ -23,7 +23,7 @@ Main tasks:
 
 # Folders in Repository  <a name="folders"/> 
 ## 🟣 [datasets](./datasets) - All different datasets
-## 🟣 [GPs](./GPs) - All different Gaussian Processes 
+## 🟣 [GPs](./GPs) - All different Gaussian Processes:
 ### 〰️ Wiggle dataset 〰️
 #### 🟣 [GPWiggle](./GPs/GPWiggle.ipynb) - Visual example on wiggle dataset
 #### 🟣 [GPWiggleInducingPoints](./GPs/GPWiggleInducingPoints.ipynb) - Visual example with and without inducing points on wiggle dataset

@@ -22,11 +22,20 @@ Main tasks:
 
 
 # Folders in Repository  <a name="folders"/> 
-🟣 [GPs](./GPs) - All different Gaussian Processes  
-🟣 [datasets](./datasets) - All different datasets
+## 🟣 [datasets](./datasets) - All different datasets
+## 🟣 [GPs](./GPs) - All different Gaussian Processes 
+### 〰️ Wiggle dataset 〰️
+#### 🟣 [GPWiggle](./GPs/GPWiggle.ipynb) - Visual example on wiggle dataset
+#### 🟣 [GPWiggleInducingPoints](./GPs/GPWiggleInducingPoints.ipynb) - Visual example with and without inducing points on wiggle dataset
+### 🧸 Toy dataset 🧸
+#### 🟣 [GPToy](./GPs/GPToy.ipynb) - Visual example on toy dataset
+#### 🟣 [GPToyInducingPoints](./GPs/GPToyInducingPoints.ipynb) - Visual example with and without inducing points on toy dataset
+### 🪨 Concrete dataset 🪨
+#### 🟣 [GPConcrete](./GPs/GPConcrete.ipynb) - In depth analysis using UCI Concrete dataset
+### ⚡️ Power Plant dataset ⚡️
+#### 🟣 [GPPowerPlant](./GPs/GPPowerPlant.ipynb) - In depth analysis using UCI Power Plant dataset
 
 # Requirements <a name="requirements"/>
-Project was developed in Google Colab, installing gpytorch was required. Other packages already included<br />
-!pip install gpytorch  
+Project was developed in Google Colab, installing gpytorch was required. Other packages already included<br /> 
 
 

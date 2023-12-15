@@ -45,7 +45,7 @@ The K-means method partitions the dataset into 'K' clusters and selects the cent
 <img src="https://github.com/Sabelz/Gaussian_Processes_Inducing_Points/assets/61190192/b4b48d36-a0e2-416b-aa56-afcc515a4942" width="400"/>
 </p>
 
-### 🪨 Concrete dataset 🪨
+### ⛰ Concrete dataset ⛰
 #### ⚪ [GPConcrete](./GPs/GPConcrete.ipynb) - In depth analysis using UCI Concrete dataset
 ![image](https://github.com/Sabelz/Gaussian_Processes_Inducing_Points/assets/61190192/e22bcb06-6652-4e47-afba-a9ba32b379d2)
 

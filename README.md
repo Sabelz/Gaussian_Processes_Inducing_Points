@@ -33,7 +33,7 @@ The K-means method partitions the dataset into 'K' clusters and selects the cent
 #### ⚪ [GPWiggle](./GPs/GPWiggle.ipynb) - Visual example on wiggle dataset
 #### ⚪ [GPWiggleInducingPoints](./GPs/GPWiggleInducingPoints.ipynb) - Visual example with and without inducing points on wiggle dataset
 <p align="center">
-<img src="https://github.com/Sabelz/Gaussian_Processes_Inducing_Points/assets/61190192/9516b66d-2d54-414a-9d38-79bb19f8f072" width="500"/>
+<img src="https://github.com/Sabelz/Gaussian_Processes_Inducing_Points/assets/61190192/9516b66d-2d54-414a-9d38-79bb19f8f072" width="400"/>
 </p>
 
 
@@ -42,7 +42,7 @@ The K-means method partitions the dataset into 'K' clusters and selects the cent
 #### ⚪ [GPToyInducingPoints](./GPs/GPToyInducingPoints.ipynb) - Visual example with and without inducing points on toy dataset
 
 <p align="center">
-<img src="https://github.com/Sabelz/Gaussian_Processes_Inducing_Points/assets/61190192/b4b48d36-a0e2-416b-aa56-afcc515a4942" width="500"/>
+<img src="https://github.com/Sabelz/Gaussian_Processes_Inducing_Points/assets/61190192/b4b48d36-a0e2-416b-aa56-afcc515a4942" width="400"/>
 </p>
 
 ### 🪨 Concrete dataset 🪨

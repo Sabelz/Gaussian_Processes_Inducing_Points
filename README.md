@@ -33,26 +33,22 @@ The K-means method partitions the dataset into 'K' clusters and selects the cent
 #### ⚪ [GPWiggle](./GPs/GPWiggle.ipynb) - Visual example on wiggle dataset
 #### ⚪ [GPWiggleInducingPoints](./GPs/GPWiggleInducingPoints.ipynb) - Visual example with and without inducing points on wiggle dataset
 
-<div style="text-align:center">
-  <img src="https://github.com/Sabelz/Gaussian_Processes_Inducing_Points/assets/61190192/a6d68c88-bbdc-47a4-b187-de5862402786" alt="Image 1">
-</div>
-
-<div style="text-align:center">
-  <img src="https://github.com/Sabelz/Gaussian_Processes_Inducing_Points/assets/61190192/6de9a0a9-473a-40eb-a5ce-478906d59497" alt="Image 2">
-</div>
-
+![image](https://github.com/Sabelz/Gaussian_Processes_Inducing_Points/assets/61190192/9516b66d-2d54-414a-9d38-79bb19f8f072)
 
 
 ### 🧸 Toy dataset 🧸
 #### ⚪ [GPToy](./GPs/GPToy.ipynb) - Visual example on toy dataset
 #### ⚪ [GPToyInducingPoints](./GPs/GPToyInducingPoints.ipynb) - Visual example with and without inducing points on toy dataset
-![image](https://github.com/Sabelz/Gaussian_Processes_Inducing_Points/assets/61190192/1a0bcd8b-46c0-471d-bfdc-c009adf68889)
 
-![image](https://github.com/Sabelz/Project18/assets/61190192/d4269e04-756c-4a6d-836b-ae9f549ade1c)
+![image](https://github.com/Sabelz/Gaussian_Processes_Inducing_Points/assets/61190192/b4b48d36-a0e2-416b-aa56-afcc515a4942)
+
 ### 🪨 Concrete dataset 🪨
 #### ⚪ [GPConcrete](./GPs/GPConcrete.ipynb) - In depth analysis using UCI Concrete dataset
+![image](https://github.com/Sabelz/Gaussian_Processes_Inducing_Points/assets/61190192/e22bcb06-6652-4e47-afba-a9ba32b379d2)
+
 ### ⚡️ Power Plant dataset ⚡️
 #### ⚪ [GPPowerPlant](./GPs/GPPowerPlant.ipynb) - In depth analysis using UCI Power Plant dataset
+![image](https://github.com/Sabelz/Gaussian_Processes_Inducing_Points/assets/61190192/ac5f24c8-a8c0-4d4e-8560-4c6d19563c22)
 
 # 🟣 Requirements <a name="requirements"/> 🟣
 Project was developed in Google Colab, installing gpytorch was required. Other packages already included<br /> 

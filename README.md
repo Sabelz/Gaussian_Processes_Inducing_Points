@@ -1,6 +1,6 @@
 # 🟣 Project - Gaussian Processes 🟣
 
-### Alexander Sabelström - @[Sabelz](https://github.com/Sabelz)
+### Alexander Sabelström - @[Linkedin](https://www.linkedin.com/in/alexander-sabelstr%C3%B6m-484256293/)
 
 # Table of Contents
 * [Introduction](#introduction)  

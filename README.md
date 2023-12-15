@@ -20,7 +20,12 @@ Main tasks:
 ![image](https://github.com/Sabelz/Project18/assets/61190192/d4269e04-756c-4a6d-836b-ae9f549ade1c)
 
 # 🟣 What is Inducing Points? 🟣
-
+A major challenge of applying GPs in real-world applications is their computational complexity.
+This complexity arises from the need to handle large covariance matrices whose dimensions depend on the number of data points.
+Several methods have been proposed to resolve this issue, such as inducing points.
+The idea behind inducing points is to approximate the whole set of observations by a smaller set of points.
+various methods exist for selecting inducing points in Gaussian process models, and one of the approaches used in this project is the K-means method.
+The K-means method partitions the dataset into 'K' clusters and selects the centroids from each cluster to act as inducing points.
 # 🟣 Folders in Repository  <a name="folders"/> 🟣
 ## ⚪ [datasets](./datasets) - All different datasets
 ## ⚪ [GPs](./GPs) - All different Gaussian Processes:

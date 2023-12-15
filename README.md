@@ -3,9 +3,9 @@
 ### Alexander Sabelström - @[Sabelz](https://github.com/Sabelz)
 
 # Table of Contents
-[Introduction](#introduction)  
-[Folders in Repository ](#folders)  
-[Requirements](#introduction)  
+* [Introduction](#introduction)  
+* [Folders in Repository ](#folders)  
+* [Requirements](#introduction)  
 
 # Introduction <a name="introduction"/>
 Gaussian Process Project for the course: Project in Data Science (1DL505), Uppsala University

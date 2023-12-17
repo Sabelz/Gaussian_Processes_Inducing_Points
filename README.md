@@ -47,11 +47,13 @@ The K-means method partitions the dataset into 'K' clusters and selects the cent
 
 ### ⛰ Concrete dataset ⛰
 #### ⚪ [GPConcrete](./GPs/GPConcrete.ipynb) - In depth analysis using UCI Concrete dataset
-![image](https://github.com/Sabelz/Gaussian_Processes_Inducing_Points/assets/61190192/e22bcb06-6652-4e47-afba-a9ba32b379d2)
+![image](https://github.com/Sabelz/Gaussian_Processes_Inducing_Points/assets/61190192/c1368408-ae6c-456b-a921-e4f3a62bc5ff)
+
 
 ### ⚡️ Power Plant dataset ⚡️
 #### ⚪ [GPPowerPlant](./GPs/GPPowerPlant.ipynb) - In depth analysis using UCI Power Plant dataset
-![image](https://github.com/Sabelz/Gaussian_Processes_Inducing_Points/assets/61190192/ac5f24c8-a8c0-4d4e-8560-4c6d19563c22)
+![image](https://github.com/Sabelz/Gaussian_Processes_Inducing_Points/assets/61190192/9481539f-c6b6-4354-8661-db69bc2ce4e9)
+
 
 # 🟣 Requirements <a name="requirements"/> 🟣
 Project was developed in Google Colab, installing gpytorch was required. Other packages already included<br /> 

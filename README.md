@@ -8,7 +8,8 @@
 * [Requirements](#introduction)  
 
 # 🟣 Introduction <a name="introduction"/> 🟣
-Gaussian Process Project for the course: Project in Data Science (1DL505), Uppsala University
+Gaussian Process Project for the course: Project in Data Science (1DL505), Uppsala University  
+October 2023 - December 2023
   
 Main tasks:   
 ⚫️ Learn about making Gaussian Processes (GPs) using https://gpytorch.ai/  
